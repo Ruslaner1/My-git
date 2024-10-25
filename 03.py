@@ -1,2 +1,3 @@
-print("Ауууууу!")
-print("Ауууууу!")
+message= "Ауууу!"
+print(message)
+print(message)
